@@ -203,34 +203,34 @@
             Score = Score + 20
         End If
         If CBQ3yes.CheckState = CheckState.Checked Then
-            Score = Score = 20
+            Score = Score + 20
         End If
         If CBQ4yes.CheckState = CheckState.Unchecked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ5yes.CheckState = CheckState.Unchecked Then
-            Score = Score = 20
+            Score = Score + 20
         End If
         If CBQ6yes.CheckState = CheckState.Checked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ7yes.CheckState = CheckState.Unchecked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ8yes.CheckState = CheckState.Checked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ9yes.CheckState = CheckState.Unchecked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ10yes.CheckState = CheckState.Checked Then
-            Score = Score = 15
+            Score = Score + 15
         End If
         If CBQ11yes.CheckState = CheckState.Unchecked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ12yes.CheckState = CheckState.Checked Then
-            Score = Score = 5
+            Score = Score + 5
         End If
         If CBQ13yes.CheckState = CheckState.Unchecked Then
             Score = Score + 10
@@ -264,8 +264,7 @@ test was:
                                                             If CBQ13yes.Checked Or CBQ13no.Checked Then
                                                                 If CBQ14yes.Checked Or CBQ14no.Checked Then
                                                                     If CBQ15yes.Checked Or CBQ15no.Checked Then
-                                                                        Results.Show()
-                                                                        Me.Hide()
+                                                                        MsgBox(Score)
                                                                     Else
                                                                         MsgBox("You didn't answer a question")
                                                                     End If

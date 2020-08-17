@@ -31,3 +31,19 @@
 \\cca07\C14\SeyJar14\Year 11\Computing\VB\Projects\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.xml
 \\cca07\C14\SeyJar14\Year 11\Computing\VB\Projects\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.pdb
 \\cca07\C14\SeyJar14\Year 11\Computing\VB\Projects\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.vbprojAssemblyReference.cache
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\bin\Debug\SHITE test.exe
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\bin\Debug\SHITE test.exe.config
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.Results.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.SHITEmenu.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.Gender.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.Resources.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.FemaleTest.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.MaleTest.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE_test.Waht_is_it.resources
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.vbproj.GenerateResource.cache
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.vbproj.CoreCompileInputs.cache
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.exe
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.xml
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\obj\Debug\SHITE test.pdb
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\bin\Debug\SHITE test.pdb
+D:\Downloads\SHITEtest-master\Memeinator\Memeinator SHITE test\SHITE test\bin\Debug\SHITE test.xml
